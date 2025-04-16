@@ -151,9 +151,9 @@ temple.html
 ![WhatsApp Image 2025-04-16 at 22 18 31_27e730ba](https://github.com/user-attachments/assets/f9e5b674-3cb7-497b-922d-201a29804133)
 ![WhatsApp Image 2025-04-16 at 22 18 31_70f2bfe7](https://github.com/user-attachments/assets/37fea592-0608-40f0-8aac-7746c9a74433)
 ![WhatsApp Image 2025-04-16 at 22 18 30_b64b765a](https://github.com/user-attachments/assets/7a45f748-d15c-4f78-9226-84c96ec74c07)
-
-
-
+![WhatsApp Image 2025-04-16 at 22 18 30_557eff74](https://github.com/user-attachments/assets/40fed72b-d005-4e76-a02d-4a2928c5c9d2)
+![WhatsApp Image 2025-04-16 at 22 18 30_5378fa79](https://github.com/user-attachments/assets/bf94ee54-aa20-4784-99d1-966907f06c1f)
+![WhatsApp Image 2025-04-16 at 22 18 29_304bab54](https://github.com/user-attachments/assets/efe0f5a0-4baa-4b2d-9974-2ab446a0637e)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
